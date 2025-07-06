@@ -1,0 +1,22 @@
+{
+  "name": "kmjx1",
+  "version": "1.0.0",
+  "description": "Xログイン認証アプリ（Renderデプロイ対応）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [],
+  "author": "miitaku",
+  "license": "MIT"
+}
